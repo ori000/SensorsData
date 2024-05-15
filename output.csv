@@ -1,0 +1,54 @@
+id,term,monday,tuesday,wednesday,thursday,friday,enrollment,maximumEnrollment,courseNumber,subject,sequenceNumber,beginTime,endTime,room,building,facultyName,facultyEmail
+196089,202420,False,False,False,True,False,14,13,201,CMPS,B2,0800,1059,134,BLISS,"Hamandi, Ahmad",ah224@aub.edu.lb
+196090,202420,False,True,False,False,False,14,14,201,CMPS,B3,1100,1359,134,BLISS,"Fakher, Aida",ayf01@mail.aub.edu
+195038,202420,False,True,False,False,False,20,13,201,CMPS,B4,1100,1359,133,BLISS,"Hariri, Sumaya",soh05@mail.aub.edu
+195302,202420,False,False,False,False,True,18,13,201,CMPS,B5,1400,1659,011,BLISS,"Hariri, Sumaya",soh05@mail.aub.edu
+195039,202420,False,False,False,True,False,14,14,201,CMPS,B6,0800,1059,133,BLISS,"Baydoun, Ali",amb86@mail.aub.edu
+196236,202420,False,True,False,False,False,13,16,202,CMPS,B1,0800,1059,134,BLISS,"Saab, Ali",ams159@mail.aub.edu
+193737,202420,False,True,False,False,False,10,16,202,CMPS,B2,1100,1359,011,BLISS,,
+195500,202420,False,True,False,False,False,8,16,202,CMPS,B3,1400,1659,011,BLISS,,
+195503,202420,True,False,False,False,False,11,16,202,CMPS,B4,1400,1659,133,BLISS,"Dekmak, Fatima",fkd04@mail.aub.edu
+195504,202420,False,False,True,False,False,14,16,202,CMPS,B5,1400,1659,011,BLISS,"Ghannam, Hiyam",hg31@aub.edu.lb
+196040,202420,False,False,False,True,False,16,16,202,CMPS,B6,0800,1059,011,BLISS,"Saab, Ali",ams159@mail.aub.edu
+196042,202420,True,False,False,False,False,15,16,202,CMPS,B7,1400,1659,011,BLISS,"Ghannam, Hiyam",hg31@aub.edu.lb
+196043,202420,False,False,False,True,False,15,16,202,CMPS,B8,1100,1359,011,BLISS,"Al Aridi, Karem",kra19@mail.aub.edu
+196044,202420,False,False,False,True,False,11,16,202,CMPS,B9,1400,1659,011,BLISS,"Al Aridi, Karem",kra19@mail.aub.edu
+195040,202420,True,False,True,False,True,31,48,202,CMPS,L1,0900,0950,105,BLISS,"Safa, Haidar",hs33@aub.edu.lb
+195303,202420,True,False,True,False,True,41,48,202,CMPS,L2,1000,1050,105,BLISS,"Assaf, Rida",ra278@aub.edu.lb
+196041,202420,True,False,True,False,True,41,48,202,CMPS,L3,1100,1150,105,BLISS,"Assaf, Rida",ra278@aub.edu.lb
+195930,202420,True,False,False,False,False,10,15,207,CMPS,B1,1100,1359,134,BLISS,"Ghannam, Hiyam",hg31@aub.edu.lb
+195931,202420,True,False,False,False,False,5,15,207,CMPS,B2,1100,1359,134,BLISS,,
+195932,202420,False,True,False,True,False,15,30,207,CMPS,L1,1230,1345,105,BLISS,"Khalil, Alabbass",ak202@aub.edu.lb
+196222,202420,False,True,False,False,False,19,19,208,CMPS,B1,0800,0959,114,BLISS,"Solh, Ali Yousef",ams157@mail.aub.edu
+195517,202420,False,True,False,False,False,19,19,208,CMPS,B2,1000,1159,114,BLISS,"Hamam, Mustafa",mh58@aub.edu.lb
+195560,202420,False,False,False,True,False,19,19,208,CMPS,B3,1000,1159,114,BLISS,"Sobh, Amine",as172@aub.edu.lb
+195563,202420,False,False,False,True,False,19,19,208,CMPS,B4,1200,1359,133,BLISS,"Sobh, Amine",as172@aub.edu.lb
+196223,202420,False,True,False,False,False,21,19,208,CMPS,B5,1200,1359,114,BLISS,"Shawraba, Sara",sms112@mail.aub.edu
+196224,202420,False,False,False,True,False,19,19,208,CMPS,B6,0800,0959,114,BLISS,"Hamam, Mustafa",mh58@aub.edu.lb
+195933,202420,False,False,True,False,False,12,13,209,CMPS,B1,1200,1359,011,BLISS,"Salman, Rani",rss65@mail.aub.edu
+195934,202420,True,False,False,False,False,13,13,209,CMPS,B2,1000,1159,011,BLISS,"El Hajj, Mohamed",me164@aub.edu.lb
+195935,202420,True,False,False,False,False,10,13,209,CMPS,B3,0800,0959,011,BLISS,"Fatairi, Nour",nf20@aub.edu.lb
+195936,202420,False,False,True,False,False,7,13,209,CMPS,B4,1000,1159,011,BLISS,"El Hajj, Mohamed",me164@aub.edu.lb
+195937,202420,True,False,False,False,False,11,13,209,CMPS,B5,1200,1359,011,BLISS,"El Hajj, Mohamed",me164@aub.edu.lb
+195938,202420,False,False,True,False,False,7,13,209,CMPS,B6,0800,0959,011,BLISS,"Shawraba, Sara",sms112@mail.aub.edu
+195939,202420,False,True,False,True,False,35,39,209,CMPS,L1,0800,0850,105,BLISS,"Fatairi, Nour",nf20@aub.edu.lb
+195940,202420,False,True,False,True,False,25,39,209,CMPS,L2,0930,1020,105,BLISS,"Fatairi, Nour",nf20@aub.edu.lb
+196020,202420,False,False,True,False,False,44,50,211,CMPS,E2,1400,1515,205,BLISS,"Dekmak, Fatima",fkd04@mail.aub.edu
+195798,202420,False,True,False,False,False,38,35,214,CMPS,E1,1700,1815,105,BLISS,,
+193681,202420,False,True,False,True,False,8,40,215,CMPS,1,1100,1215,105,BLISS,"Abdo Mouawad, Amer",aa368@aub.edu.lb
+196023,202420,False,True,False,True,False,21,25,224,CMPS,1,1530,1645,105,BLISS,"El Hajj, Izzat",ie22@aub.edu.lb
+196063,202420,True,False,True,False,True,33,45,231,CMPS,1,0800,0850,205,BLISS,"Raheel, Saeed",sr46@aub.edu.lb
+194855,202420,False,True,False,True,False,32,35,244,CMPS,L1,0800,0915,205,BLISS,"Jureidini, Wadi&#39;",wadi@aub.edu.lb
+196153,202420,False,True,False,True,False,30,35,244,CMPS,L2,0930,1045,205,BLISS,"Jureidini, Wadi&#39;",wadi@aub.edu.lb
+196154,202420,False,True,False,True,False,37,35,244,CMPS,L3,1400,1515,105,BLISS,"Jureidini, Wadi&#39;",wadi@aub.edu.lb
+195099,202420,True,False,True,False,True,30,35,244,CMPS,L4,0800,0850,105,BLISS,"Lakkis, Sari",sl36@aub.edu.lb
+196196,202420,False,True,False,True,False,39,40,261,CMPS,L1,1400,1515,205,BLISS,"Elbassuoni, Shady",se58@aub.edu.lb
+196592,202420,True,False,True,False,True,33,40,261,CMPS,L2,1400,1450,105,BLISS,"Assaf, Rida",ra278@aub.edu.lb
+196102,202420,True,False,True,False,True,40,45,271,CMPS,L3,1000,1050,205,BLISS,"Noureddine, Moustafa",mn161@aub.edu.lb
+195953,202420,False,False,False,False,True,14,15,278,CMPS,B1,1400,1659,114,BLISS,"Salman, Rani",rss65@mail.aub.edu
+195954,202420,False,False,False,False,True,13,15,278,CMPS,B2,1400,1659,134,BLISS,"Dbouk, Rana",rad43@mail.aub.edu
+197276,202420,False,False,False,False,True,11,13,278,CMPS,B3,1400,1659,012,BLISS,,
+196852,202420,True,False,True,False,False,6,20,297Z,CMPS,1,1530,1645,105,BLISS,"Kobeissi, Mohamed A.",mk66@aub.edu.lb
+195956,202420,True,False,True,False,False,20,20,351,CMPS,1,1530,1645,105,BLISS,"Kobeissi, Mohamed A.",mk66@aub.edu.lb
+194389,202420,False,True,False,True,False,24,15,396AA,CMPS,1,1530,1645,105,BLISS,"El Hajj, Izzat",ie22@aub.edu.lb
+196392,202420,False,True,False,True,False,8,0,396V,CMPS,1,1400,1515,205,BLISS,"Elbassuoni, Shady",se58@aub.edu.lb
