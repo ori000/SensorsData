@@ -16,14 +16,14 @@ const supabase = createClient('https://frpruiluczkxupczcdnr.supabase.co', 'eyJhb
 
 app.get('/sensordata', async (req, res) => {
   const { data, error } = await supabase
-    .from('SensorData')
+    .from('SensorData4')
     .select()
   res.send(data);
 });
 
 app.get('/sensordata/:id', async (req, res) => {
   const { data, error } = await supabase
-    .from('SensorData')
+    .from('SensorData4')
     .select()
     .eq('id', req.params.id)
   res.send(data);
@@ -40,7 +40,7 @@ app.get('/locationdata', async (req, res) => {
 
   try {
     const { data, error } = await supabase
-      .from('SensorData')
+      .from('SensorData4')
       .select()
       .eq('location', location);
 
@@ -91,7 +91,7 @@ app.get('/schedule', async (req, res) => {
 
 app.post('/sensordata', async (req, res) => {
   const { error } = await supabase
-    .from('SensorData')
+    .from('SensorData4')
     .insert({
       location: req.body.location,
       temperature: req.body.temperature,
@@ -104,7 +104,7 @@ app.post('/sensordata', async (req, res) => {
 
 app.put('/sensordata/:id', async (req, res) => {
   const { error } = await supabase
-    .from('SensorData')
+    .from('SensorData4')
     .update({
       location: req.body.location,
       temperature: req.body.temperature,
@@ -118,7 +118,7 @@ app.put('/sensordata/:id', async (req, res) => {
 
 app.delete('/sensordata/:id', async (req, res) => {
   const { error } = await supabase
-    .from('SensorData')
+    .from('SensorData4')
     .delete()
     .eq('id', req.params.id);
   if (error) {
